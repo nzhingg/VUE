@@ -26,6 +26,7 @@ filters:{
 
 #### 自定义指令
 v-指令名称
+
 全局：
 ```
 Vue.directive('rainbow',{
